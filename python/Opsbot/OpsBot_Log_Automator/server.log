@@ -1,0 +1,11 @@
+2026-04-14 08:32:11 INFO: john_doe finally logged in
+2026-04-14 08:35:05 INFO: db connected fine
+2026-04-14 08:38:12 ERROR: cache write timed out, skipping for now
+2026-04-14 08:42:01 WARN: failed auth for admin (bad password)
+2026-04-14 08:44:03 INFO: john_doe logged out
+2026-04-14 08:50:00 CRITICAL: cpu is hitting 95% again...
+2026-04-14 08:51:14 INFO: ok cpu dropped back to normal
+2026-04-14 08:55:33 WARN: locking out 192.168.1.104 after 5 failed attempts
+2026-04-14 09:01:21 ERROR: whoops, missing a param on /api/v1/users
+2026-04-14 09:05:00 INFO: starting the nightly backup script
+2026-04-14 09:15:00 INFO: nightly backup finished successfully
